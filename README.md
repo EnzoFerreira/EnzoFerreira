@@ -7,13 +7,11 @@
 ##
 <div>
 
-  -💻 I’m currently working on personal projects and meme projects
+ -💻 I’m currently working on personal projects
 
--🥽 I’m currently learning Python and JS
+-🥽 I’m currently learning JS
 
 -😄 Pronouns: He/Him
-
--⚡ Funny fact: I started programming to make mods in minecraft lol
 
 -🤔 Currently studying ADS(analysis and systems development) 
 </div>
