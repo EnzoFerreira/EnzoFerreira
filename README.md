@@ -22,7 +22,7 @@
   <img align="center" alt="Rafa-Csharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
   
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1053427139246035014/1054386716179431464/73407438_107096187262520_5396054969794342272_n.jpg">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1053427139246035014/1054392576670695526/156092768_342087070488045_8383785758509829250_n1.jpg">
 </div>
 
 
