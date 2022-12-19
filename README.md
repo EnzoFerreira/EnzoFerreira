@@ -1,8 +1,12 @@
 ## Olá, meu nome é Enzo
 💻 Cursando ADS(Análise e desenvolvimento de Sistemas)
+
 📕 FIAP
+
 😌 Ele/Dele
+
 🎸 Apaixonado em jogos e em música
+
 <div align="left">
   <a href="https://github.com/EnzoFerreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
