@@ -41,7 +41,7 @@
 
   **Dados e Bancos**                                                                                            
                                                                                                                                                    
-![MYSQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=MYSQL&logoColor=white)           ![POSTGREE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MYSQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=MYSQL&logoColor=white)           
                                                                                                                                                   
                                                                                                            
 ##
