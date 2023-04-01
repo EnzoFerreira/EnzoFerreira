@@ -1,11 +1,10 @@
 ## Olá, meu nome é Enzo e bem vindo ao meu github!
+## Sobre mim
+
 💻 Cursando ADS(Análise e desenvolvimento de Sistemas)
-
 📕 FIAP
-
-😌 Ele/Dele
-
-🎸 Apaixonado em jogos e em música
+🌱 
+🎵 Apaixonado por jogos e em música
 
 <div align="left">
   <a href="https://github.com/EnzoFerreira">
@@ -22,7 +21,11 @@
   <img align="center" alt="Oracle" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Pandas" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
   
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1053427139246035014/1054392576670695526/156092768_342087070488045_8383785758509829250_n1.jpg">
+ **DevOps**
+
+  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
 
