@@ -5,13 +5,14 @@
 - 📕 &nbsp; <a href="https://www.fiap.com.br">FIAP</a>
 - 🌱 &nbsp; Aprendendo atualmente sobre a área de Data-Science e Machine learning 
 - 🎵 &nbsp; Apaixonado por jogos e música
-
+##
 <div align="left">
   <a href="https://github.com/EnzoFerreira">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=enzoferreira&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
   <img height="210em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=enzoferreira&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </div>
 
+##
  <h3> 🗒️ &nbsp;Skills e Conhecimentos </h3>
 
 **Front-End**
@@ -41,15 +42,13 @@
   **Dados e Bancos**                                                                                            
                                                                                                                                                    
 ![MYSQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=MYSQL&logoColor=white)           ![POSTGREE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-                                                                                                                                                  <br/>
+                                                                                                                                                  
                                                                                                            
-
-
-  
-  ##
- 
+##
+ **Redes Sociais**
 <div> 
   <a href="https://instagram.com/html.ferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:enzoraci21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/enzo-raci-69a6aa215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br/>
