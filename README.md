@@ -8,8 +8,8 @@
 ##
 <div align="left">
   <a href="https://github.com/EnzoFerreira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=enzoferreira&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
-  <img height="210em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=enzoferreira&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=enzoferreira&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+  <img height="200em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=enzoferreira&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </div>
 
 ##
@@ -34,15 +34,11 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)         ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=Pandas&logoColor=white) 
                        
                                                                                                              
-  **ISO e Sistemas operacionais**                                                                                         
-                                                                                                                                                   
-  ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)           
-
   **Dados e Bancos**                                                                                            
                                                                                                                                                    
 ![MYSQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=MYSQL&logoColor=white)           
-                                                                                                                                                  
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)                                                                                                                                                  
                                                                                                            
 ##
  **Redes Sociais**
