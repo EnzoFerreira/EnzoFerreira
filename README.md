@@ -3,7 +3,7 @@
 
 - 💻 &nbsp; Cursando ADS(Análise e desenvolvimento de Sistemas)
 - 📕 &nbsp; <a href="https://www.fiap.com.br">FIAP</a>
-- 🌱 &nbsp; Aprendendo atualmente sobre a área de Data-Science e Machine learning 
+- 🌱 &nbsp; Aprendendo atualmente sobre SWIFT e desenvolvimento IOS
 - 🎵 &nbsp; Apaixonado por jogos e música
 ##
 <div align="left">
@@ -21,13 +21,14 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)           
   ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![SWIFT](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=Swift&logoColor=white)                                                                                                                                                 
   
   **Back-End**
                                                                                                                
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-323330?style=for-the-badge&logo=insomnia&logoColor=007ACC)                                                              
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white)
                                                                                                                                                    
   **Data-Science**                                                                                                                            
                                                                                                                                                    
