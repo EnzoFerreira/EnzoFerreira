@@ -3,7 +3,7 @@
 
 - 💻 &nbsp; Cursando ADS(Análise e desenvolvimento de Sistemas)
 - 📕 &nbsp; <a href="https://www.fiap.com.br">FIAP</a>
-- 🌱 &nbsp; Aprendendo atualmente sobre SWIFT e desenvolvimento IOS
+- 🌱 &nbsp; Aprendendo atualmente sobre React native e desenvolvimento mobile
 - 🎵 &nbsp; Apaixonado por jogos e música
 ##
 <div align="left">
