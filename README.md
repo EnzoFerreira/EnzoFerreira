@@ -1,10 +1,10 @@
 ## Olá, meu nome é Enzo e seja bem vindo ao meu github!
 ## Sobre mim
 
-- 💻 &nbsp; Cursando ADS(Análise e desenvolvimento de Sistemas)
+- 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas)
 - 📕 &nbsp; <a href="https://www.fiap.com.br">FIAP</a>
-- 🌱 &nbsp; Aprendendo atualmente sobre React native e desenvolvimento mobile
-- 🎵 &nbsp; Apaixonado por jogos e música
+- 🌱 &nbsp; Atualmente me aprofundando em Django e spark
+- 🎵 &nbsp; Apaixonado por música
 ##
 <div align="left">
   <a href="https://github.com/EnzoFerreira">
@@ -21,7 +21,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)           
   ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![SWIFT](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=Swift&logoColor=white)                                                                                                                                                 
+                                                                                                                                                
   
   **Back-End**
                                                                                                                
