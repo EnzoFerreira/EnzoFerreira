@@ -1,4 +1,4 @@
-## Olá, meu nome é Enzo e seja bem vindo ao meu github!
+## Olá, me nome é Enzo e seja bem vindo ao meu github!
 ## Sobre mim
 
 - 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas)
@@ -37,7 +37,8 @@
                                                                                                              
   **Dados e Bancos**                                                                                            
                                                                                                                                                    
-![MYSQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=MYSQL&logoColor=white)           
+![MYSQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=MYSQL&logoColor=white)
+![POSTGRES](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)                                                                                                                                                  
                                                                                                            
