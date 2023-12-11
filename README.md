@@ -2,8 +2,8 @@
 ## Sobre mim
 
 - 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas)
-- 📕 &nbsp; <a href="https://www.fiap.com.br">FIAP</a>
-- 🌱 &nbsp; Atualmente me aprofundando em Django e spark
+- 📚 &nbsp; Atualmente trabalhando em <a href="https://scicrop.com/en/home-en/">Scicrop</a>
+- 🌱 &nbsp; Atualmente me aprofundando em Django e PySpark
 - 🎵 &nbsp; Apaixonado por música
 ##
 <div align="left">
