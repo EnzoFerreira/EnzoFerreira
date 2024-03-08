@@ -3,7 +3,7 @@
 
 - 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas)
 - 📚 &nbsp; Atualmente trabalhando em <a href="https://scicrop.com/en/home-en/">Scicrop</a>
-- 🌱 &nbsp; Atualmente me aprofundando em Django e PySpark
+- 🌱 &nbsp; Atualmente me aprofundando em Django e Flutter
 - 🎵 &nbsp; Apaixonado por música
 ##
 <div align="left">
@@ -20,7 +20,7 @@
   ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)           
-  ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=white)
                                                                                                                                                 
   
   **Back-End**
@@ -29,6 +29,8 @@
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-323330?style=for-the-badge&logo=insomnia&logoColor=007ACC)                                                              
   ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white)
+  
                                                                                                                                                    
   **Data-Science**                                                                                                                            
                                                                                                                                                    
@@ -37,7 +39,6 @@
                                                                                                              
   **Dados e Bancos**                                                                                            
                                                                                                                                                    
-![MYSQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=MYSQL&logoColor=white)
 ![POSTGRES](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)                                                                                                                                                  
