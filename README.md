@@ -20,7 +20,7 @@
   ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)           
-  ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Angular-blue?style=for-the-badge&logo=Angular&logoColor=white)
                                                                                                                                                 
   
   **Back-End**
