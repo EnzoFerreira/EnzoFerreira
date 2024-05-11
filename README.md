@@ -3,7 +3,7 @@
 
 - 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas)
 - 📚 &nbsp; Atualmente trabalhando em <a href="https://scicrop.com/en/home-en/">Scicrop</a>
-- 🌱 &nbsp; Atualmente me aprofundando em Django e Flutter
+- 🌱 &nbsp; Atualmente me aprofundando em Django e Angular
 - 🎵 &nbsp; Apaixonado por música
 ##
 <div align="left">
@@ -20,7 +20,7 @@
   ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)           
-  ![Flutter](https://img.shields.io/badge/Angular-blue?style=for-the-badge&logo=Angular&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=Angular&logoColor=white)
                                                                                                                                                 
   
   **Back-End**
