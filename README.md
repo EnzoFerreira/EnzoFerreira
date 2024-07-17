@@ -3,7 +3,7 @@
 
 - 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas)
 - 📚 &nbsp; Atualmente trabalhando em <a href="https://scicrop.com/en/home-en/">Scicrop</a>
-- 🌱 &nbsp; Atualmente me aprofundando em Django e Angular
+- 🌱 &nbsp; Atualmente me aprofundando em Django e Java (voltados a back-endatetime_now.month)
 - 🎵 &nbsp; Apaixonado por música
 ##
 <div align="left">
