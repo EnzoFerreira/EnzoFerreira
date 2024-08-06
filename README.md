@@ -3,7 +3,7 @@
 
 - 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas)
 - 📚 &nbsp; Atualmente trabalhando em <a href="https://scicrop.com/en/home-en/">Scicrop</a>
-- 🌱 &nbsp; Atualmente me aprofundando em Django e Java (voltados a back-endatetime_now.month)
+- 🌱 &nbsp; Atualmente me aprofundando em Django e Java (voltados a back-end)
 - 🎵 &nbsp; Apaixonado por música
 ##
 <div align="left">
@@ -41,8 +41,12 @@
                                                                                                                                                    
 ![POSTGRES](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)                                                                                                                                                  
-                                                                                                           
+![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)    
+![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange)
+![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=aws&logoColor=blue)
+![DOCKER](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue)     
+
+
 ##
  **Redes Sociais**
 <div> 
