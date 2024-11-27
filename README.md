@@ -1,9 +1,9 @@
-## Olá, me nome é Enzo e seja bem vindo ao meu github!
+## Olá, me chamo Enzo e esse é meu github!
 ## Sobre mim
 
 - 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas)
 - 📚 &nbsp; Atualmente trabalhando em <a href="https://scicrop.com/en/home-en/">Scicrop</a>
-- 🌱 &nbsp; Atualmente me aprofundando em Django e Java (voltados a back-end)
+- 🌱 &nbsp; Atualmente me aprofundando em Java e Kotlin
 - 🎵 &nbsp; Apaixonado por música
 ##
 <div align="left">
