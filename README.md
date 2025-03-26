@@ -1,9 +1,9 @@
 ## Olá, me chamo Enzo e esse é meu github!
 ## Sobre mim
 
-- 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas)
+- 💻 &nbsp; Graduado em ADS(Análise e desenvolvimento de Sistemas) pela FIAP
 - 📚 &nbsp; Atualmente trabalhando em <a href="https://scicrop.com/en/home-en/">Scicrop</a>
-- 🌱 &nbsp; Atualmente me aprofundando em Java e Kotlin
+- 🌱 &nbsp; Atualmente me aprofundando em Cloud AWS e kotlin
 - 🎵 &nbsp; Apaixonado por música
 ##
 <div align="left">
@@ -31,13 +31,8 @@
   ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white)
   
-                                                                                                                                                   
-  **Data-Science**                                                                                                                            
-                                                                                                                                                   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)         ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=Pandas&logoColor=white) 
-                       
-                                                                                                             
-  **Dados e Bancos**                                                                                            
+                                                                                                                                   
+  **Cloud e Databases**                                                                                            
                                                                                                                                                    
 ![POSTGRES](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
